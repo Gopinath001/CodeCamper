@@ -3,20 +3,42 @@
 ## Front End Development
 * [Tribute Page](#tribute-page)
 * [Personal Portfolio Webpage](#personal-portfolio-webpage)
+* [Survey Form](#survey-form)
+* [Landing Page](#landing-page)
 * [Random Quote Machine](#random-quote-machine)
 * [Local Weather App](#local-weather-app)
+* [Technical Documentation Page](#technical-documentation-page)
 * [Wikipedia Viewer](#wikipedia-viewer)
 * [Twitchtv JSON API](#twitchtv-json-api)
 * [JavaScript Calculator](#javascript-calculator)
+* [Markdown Previewer](#markdown-previewer)
 * [Pomodoro Clock](#pomodoro-clock)
 * [Tic Tac Toe Game](#tic-tac-toe-game)	
+* [Drum Machine](#drum-machine)	
 * [Simon Game](#simon-game)
 
 ## Details
+## Responsive Web Design Certification
 
-## Front End Development
+### [Certificate](https://www.freecodecamp.org/certification/gopinath001/responsive-web-design)
+
+## JavaScript Algorithms and Data Structures Certification
+
+### [Certificate](https://www.freecodecamp.org/certification/gopinath001/javascript-algorithms-and-data-structures)
+
+## Front End Libraries Certification
+
+### [Certificate](https://www.freecodecamp.org/certification/gopinath001/front-end-libraries)
+
+
+
+## Legacy Front End Development
 
 ### [Certificate](https://www.freecodecamp.org/certification/gopinath001/legacy-front-end)
+
+
+
+## Development Projects
 
 ### Tribute Page
 ##### [Link](https://codepen.io/Bluepie/full/MVvqBJ/)
@@ -31,6 +53,15 @@
 * I can click different buttons that will take me to the portfolio creator's different social media pages.
 * I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
 *  I navigate to different sections of the webpage by clicking buttons in the navigation.
+
+### Survey Form
+##### [Link](https://codepen.io/Bluepie/full/pKdZpP/)
+
+### Landing Page
+##### [Link](https://codepen.io/Bluepie/full/aKEeOa/)
+
+### Technical Documentation Page
+##### [Link](https://codepen.io/Bluepie/full/aKEeOa/)
 
 ### Random Quote Machine
 ##### [Link](https://codepen.io/Bluepie/full/YaWabp/)
@@ -66,6 +97,9 @@
 * I can clear the input field with a clear button.
 * I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
 
+### Markdown Previewer
+##### [Link](https://codepen.io/Bluepie/full/aKPGmP/)
+
 ### Pomodoro Clock
 ##### [Link](https://codepen.io/Bluepie/full/MVpaVp/)
 ##### User Stories
@@ -79,6 +113,9 @@
 * I can play a game of Tic Tac Toe with the computer.
 * My game will reset as soon as it's over so I can play again.
 * I can choose whether I want to play as X or O.
+
+### Drum Machine
+##### [Link](https://codepen.io/Bluepie/full/MXZZdZ/)
 
 ### Simon Game
 ##### [Link](https://codepen.io/Bluepie/full/QmMPJy/)
